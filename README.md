@@ -6,7 +6,7 @@
  - I have a background in Computer Science, Mathematics, and physics.
  - I'm currently doing a Master of business Analytics at the University of Colombo School of Computing.
  - I'm working as a Power BI Intern,where I build Power BI dashboards and write SQL reports.
- - 
+  
  ##🛠️ Skills
  - **Data Visualization:** Power BI, Power Query , DAX
  - **Databases:** SQL, MYSQL
@@ -24,6 +24,7 @@
 
 ##📫 Contact
 -Email:hirunivinodi@gmail.com
+
 -LinkedIn: [Hiruni Vinodi](https://www.linkedin.com/in/hiruni-vinodi/)
 <!--
 **hirunivinodi/hirunivinodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
