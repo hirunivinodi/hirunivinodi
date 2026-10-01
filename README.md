@@ -14,7 +14,8 @@
  - **Other:** Microsoft Excel, Word, PowerPoint,Java
    
 ##📊 Projects
--**Sales Dashboard (Power BI):** cleaned sales data, built data models and DAX measures,and made an interactive dashboard to track sales performance.
+-**Sales Dashboard (Power BI):** cleaned sales data, built data models and DAX measures,and
+                              made an interactive dashboard to track sales performance.
 -**Pharmacy Management System:**designed SQL database and reports for inventory and billing.
 -**Mobile Phone Purchase Automation System:** automated e-commerce workflows.
 -**Hotel Management System:** improved workflows using Java and SQL.
@@ -23,9 +24,9 @@
 -Data Visualization with Power BI, Information Institute of Technology (2026)
 
 ##📫 Contact
--Email:hirunivinodi@gmail.com
+   -Email:hirunivinodi@gmail.com
 
--LinkedIn: [Hiruni Vinodi](https://www.linkedin.com/in/hiruni-vinodi/)
+   -LinkedIn: [Hiruni Vinodi](https://www.linkedin.com/in/hiruni-vinodi/)
 <!--
 **hirunivinodi/hirunivinodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
