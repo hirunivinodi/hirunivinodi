@@ -14,6 +14,7 @@
  - **Other:** Microsoft Excel, Word, PowerPoint,Java
    
 ##📊 Projects
+
 -**Sales Dashboard (Power BI):** cleaned sales data, built data models and DAX measures,and
                               made an interactive dashboard to track sales performance.
                               
