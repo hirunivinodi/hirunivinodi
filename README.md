@@ -17,13 +17,14 @@
 -**Sales Dashboard (Power BI):** cleaned sales data, built data models and DAX measures,and
                               made an interactive dashboard to track sales performance.
                               
--**Pharmacy Management System:**designed SQL database and reports for inventory and billing.
+-**Pharmacy Management System:** designed SQL database and reports for inventory and billing.
 
 -**Mobile Phone Purchase Automation System:** automated e-commerce workflows.
 
 -**Hotel Management System:** improved workflows using Java and SQL.
 
 ##📜 Certifications
+
 -Data Visualization with Power BI, Information Institute of Technology (2026)
 
 ##📫 Contact
